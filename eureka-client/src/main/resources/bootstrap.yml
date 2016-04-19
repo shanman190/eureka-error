@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: eureka-client
+eureka:
+  instance:
+    hostname: localhost
